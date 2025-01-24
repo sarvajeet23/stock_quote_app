@@ -77,5 +77,3 @@ I am create 5 minutes video some part is pending like how to git initial and pus
    ```
 4. Once the server is running, navigate to the project’s **lib** folder in another terminal.
 5. Run the Flutter application to test its functionality and features.
-
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
