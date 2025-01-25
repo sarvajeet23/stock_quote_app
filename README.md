@@ -12,7 +12,7 @@ The Stock Quote App is a Flutter-based mobile application designed to provide us
 
 ## I will attach video link.
 I am create 5 minutes video some part is pending like how to git initial and push also because of larger side of video so not added.
-- [Video Explanation:](https://drive.google.com/file/d/1yoqScb4UFbdCq6LZLHLR-jmXCNNVP1EV/view?usp=drive_link)
+- [Video Explanation:](https://drive.google.com/file/d/1qM0AxZ6YH4X0_Gn9PHQWjbo1cKcL8o1S/view?usp=sharing)
 ### Features:
 
 1. **Search Functionality**:
