@@ -63,6 +63,8 @@ I am create 5 minutes video some part is pending like how to git initial and pus
 11. **CI/CD Pipeline**:
 
     - The project integrates a CI/CD pipeline to automate testing, building, and deployment processes, ensuring efficient and reliable development workflows.
+    - [Video Explanation:](https://github.com/sarvajeet23/stock_quote_app/releases/tag/v1.0.1)
+
 
 ### How to Start this project:
 
